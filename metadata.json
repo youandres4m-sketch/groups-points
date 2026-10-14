@@ -1,0 +1,6 @@
+{
+  "name": "Classroom Team Challenge - Interactive Scoreboard",
+  "description": "High-contrast interactive classroom scoreboard for English lessons with keyboard shortcuts, dual connected score bars, dynamic team themes, and real-time point tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
